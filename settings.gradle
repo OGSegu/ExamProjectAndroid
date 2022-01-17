@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ExamProjectAndroid"
 include ':app'
+include ':aidl'
